@@ -81,5 +81,5 @@ Inspired by French app "Mapstr" https://web.mapstr.com/.
 ## Team Members
 - [Stéphanie DI DINO](https://www.linkedin.com/in/ssdidino/) - Project Manager
 - [Julien LESUEUR](https://www.linkedin.com/in/julien-lesueur/) - Lead Developer
-- [Chris BOURGEONNIER](https://www.linkedin.com/in/chrisbourgeonnier/) - Fullstack Developer
+- [Chris BOURGEONNIER](https://www.linkedin.com/in/chrisbourgeonnier/) - Fullstack Developer, Presenter
 - [Jonatan JAKOBSSON](https://www.linkedin.com/in/jonatan--jakobsson/) - Backend Developer
